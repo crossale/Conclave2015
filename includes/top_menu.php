@@ -20,7 +20,7 @@
 		<!-- NAVBAR -->
 		<div class="row-fluid hidden-print">
 			<div class="span12">		
-				<div class="navbar center">
+				<div class="navbar navbar-inverse center">
 					<div class="navbar-inner">
 						<div class="container">
 				
