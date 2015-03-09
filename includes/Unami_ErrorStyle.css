@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo:400);
+body{font-family:'Arvo',serif; color:white;}
+h2{color:white; margin:0; display: block; font-size: 3em; width: 100%;}
+h1{color:#E61717; display: block; width: 100%;}
+
+a{color:white;}
+a:hover{color:#E61717;}
+img.bg {
+	/* Set rules to fill background */
+	min-height: 100%;
+	min-width: 640px;
+	
+	/* Set up proportionate scaling */
+	width: 100%;
+	height: auto;
+	
+	/* Set up positioning */
+	position: fixed;
+	top: 0;
+	left: 0;
+	
+	z-index: -1;
+}
+
+@media screen and (max-width: 640px) { /* Specific to this particular image */
+	img.bg {
+		left: 50%;
+		margin-left: -320px;   /* 50% */
+	}
+}

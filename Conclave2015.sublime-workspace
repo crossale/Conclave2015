@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"count",
+				"count"
+			],
+			[
+				"Table",
+				"TableBody"
+			],
+			[
+				"Chapter",
+				"Chapter_Washington"
+			],
+			[
+				"Chap",
+				"Chapter_Triune"
+			],
+			[
+				"Chair",
+				"Chair"
+			],
+			[
+				"Leader",
+				"LeadershipCount"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"update",
+				"update_info"
+			],
+			[
+				"public",
+				"public"
+			],
+			[
+				"Rand",
+				"RandomNum2"
+			],
+			[
+				"Ra",
+				"RandomNum1"
+			],
+			[
+				"Random",
+				"RandomNum2"
+			],
+			[
+				"Ran",
+				"RandomNum2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/david/Documents/Websites/UnamiLodge.org/phpinfo.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/chapter.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/lec-contacts.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/beta/lec-contacts_1.0.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/beta/lec-contactsbeta.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/contact.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/chapters-MultiChapterZIP.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/findchapter_engine.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/findchapter_contactform_engine.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/chapters.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/beta/chapter.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/beta/.htaccess",
+		"/home/david/Documents/Websites/UnamiLodge.org/.htaccess",
+		"/home/david/Documents/Websites/UnamiLodge.org/lec-officers.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/ContactForm_Engine.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/contact-confirm.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/admin_chapter-update.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/access.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/Medoo/medoo.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/communications-unamiupdate.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/history-benshetleraward.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/history-richardsaward.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/ue.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/conclave2015.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/100awards.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/forms.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/conclave2015.org/index.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/lec-minutes.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/index.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/archive_home.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/history-unamichiefs.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/chapters-Roosevelt.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/dues-powerpass.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/dues-card.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/100.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/index1.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/email-blasts.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/unami.css",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/index.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/UnamiUpdateSignUp.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/ordeal-candidate.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/google.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/links.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/communications-serviceupdate.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/top_menu.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/archive_service.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/emails/working/Awards_Blast2/Awards_Blast2.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/emails/working/Awards_Blast_Apology/Awards_Blast_Apology.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/emails/working/Awards_Blast/Awards_Blast.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/emails/working/New_Members/New_Members.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/emails/working/September2014/September2014.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/emails/working/Trading_Post/Trading_Post.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/emails/template/September2014.html~",
+		"/home/david/Documents/Websites/UnamiLodge.org/admin_admin-update.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/error.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/admin_test.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/dbconnect.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/db_credentials.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/login.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/error_log",
+		"/home/david/Documents/Websites/UnamiLodge.org/admin_admin-users.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/emails/template/Awards_Blast.html",
+		"/home/david/Documents/Websites/UnamiLodge.org/chapters-Continental.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/chapters-Minquas.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/cgi-bin/php.ini",
+		"/home/david/Documents/Websites/UnamiLodge.org/lldsurvey/index.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/chapters-Triune.php",
+		"/home/david/Documents/Websites/UnamiLodge.org/includes/main_footer.php",
+		"/home/david/Desktop/Sublime.desktop"
+	],
+	"find":
+	{
+		"height": 61.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'')",
+			"','",
+			"Chair",
+			"2015 Conclave",
+			"of",
+			"')",
+			"',''),",
+			"			',''),",
+			"	','",
+			"','",
+			"'',",
+			"(",
+			",),",
+			"',",
+			"	",
+			"	'",
+			"<?php echo $OfficerTitle{$counter};?>",
+			"')",
+			",'')",
+			"'')",
+			"'','')",
+			"Adviser",
+			"'',''),",
+			"Support",
+			")",
+			"array(1,	",
+			"''",
+			"''),",
+			"','','",
+			"','',''),",
+			"Vice-Chief",
+			"								",
+			"									",
+			"								",
+			"									",
+			"								",
+			"								'',",
+			"array('','','')",
+			"('','',''),",
+			"<a",
+			"chapters-",
+			"URL=../chapters-",
+			"\\\">\";",
+			"print \"<meta http-equiv=\\\"refresh\\\" content=\\\"0;URL=../chapters-",
+			"../chapters/",
+			"../chapters-",
+			"Associate",
+			"$Map = ",
+			"pb=!1m1",
+			"1m14",
+			"pb=!1m1",
+			"pb=!1m",
+			"pb=!1m1",
+			"pb=!1m18!1m12!1m3!",
+			"pb=!1m18!1m12!1m3!1d",
+			"pb=!1m18!1m12!1m3!",
+			", ",
+			"$chapter_request",
+			"array(\n        	array(\"Chief\", \"Name\", \"\"),",
+			"        	array(\"Chief\", \"Name\", \"\"),",
+			"array(\"Chief\", \"Name\", \"\"),\n        	array(\"Chief\", \"Name\", \"\")",
+			"array(\"Position\", \"Name\", \"\")",
+			"array()",
+			"$AssoiateAdviser = array(\"\",\"\");",
+			"echo \"Your favorite color is green!\";",
+			"required",
+			"span12",
+			"Sign Up",
+			"dinner",
+			"brotherhood",
+			"img",
+			"</font>",
+			"<font color=\"black\">",
+			"inverse",
+			"Planned",
+			"candidates",
+			"id=\"Fall_Fellowship",
+			"devicewidth",
+			"comite",
+			"comitte",
+			"comittee",
+			"date",
+			"Authentication",
+			"Contact Form Engine: Message Subject",
+			"error",
+			"message subject",
+			"label-info\">Planned",
+			"<?",
+			"address"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"label-inverse\">Planned"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}
