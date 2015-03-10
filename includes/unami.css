@@ -56,6 +56,9 @@ body {
   	padding-left:10px;
   	padding-right:10px;
 }
+.navbar {
+	padding-top: 5px;
+}
 thead,  
 .dropdown-menu li > a:hover,
 .dropdown-menu li > a:focus,
