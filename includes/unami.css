@@ -57,6 +57,8 @@ body {
   	padding-right:10px;
 }
 .navbar {
+	margin-left: -12px;
+	margin-right: -12px;
 	padding-top: 2px;
 }
 thead,  
