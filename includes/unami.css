@@ -16,10 +16,10 @@ body {
 	max-width:800px; /*Space removed for Firefox compatibility.*/
 	background-color:white; 
 }
-.nav-wrapper {
+/*.nav-wrapper {
 	padding-left:20px;
 	padding-right:20px; 
-}
+}*/
 .center.navbar .nav,
 .center.navbar .nav > li {
   	float:none;
@@ -57,7 +57,7 @@ body {
   	padding-right:10px;
 }
 .navbar {
-	padding-top: 5px;
+	padding-top: 2px;
 }
 thead,  
 .dropdown-menu li > a:hover,
