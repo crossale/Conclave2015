@@ -9,6 +9,10 @@ body {
 	text-align:center;
 }
 
+.banner-image {
+	padding: 10px;
+}
+
 /* Bootstrap Modifications */	
 .main-container-fluid {	
 	margin-right:auto;
@@ -16,10 +20,10 @@ body {
 	max-width:800px; /*Space removed for Firefox compatibility.*/
 	background-color:white; 
 }
-/*.nav-wrapper {
+.nav-wrapper {
 	padding-left:20px;
 	padding-right:20px; 
-}*/
+}
 .center.navbar .nav,
 .center.navbar .nav > li {
   	float:none;
@@ -55,11 +59,6 @@ body {
   	padding-bottom:5px;
   	padding-left:10px;
   	padding-right:10px;
-}
-.navbar {
-	margin-left: -12px;
-	margin-right: -12px;
-	padding-top: 2px;
 }
 thead,  
 .dropdown-menu li > a:hover,

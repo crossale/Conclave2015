@@ -10,7 +10,7 @@
 		</div>
 		<div class="row-fluid hidden-screen">
 			<div class="span12">	
-				<img src="../images/LodgeLogo.png" alt="Lodge Logo" align="left"/>
+				<img src="images/LodgeLogo.png" alt="Lodge Logo" align="left" class="banner-image"/>
 				<h2>Unami Lodge One, Founding Lodge of the Order of the Arrow</h2>
 			</div>
 		</div>
