@@ -12,6 +12,11 @@ body {
 .banner-image {
 	padding: 10px;
 }
+.navbar
+{
+	margin-left: -12px ;
+	margin-right: -12px ;
+}
 
 /* Bootstrap Modifications */	
 .main-container-fluid {	
