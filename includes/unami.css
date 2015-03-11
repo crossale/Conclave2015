@@ -70,7 +70,20 @@ body {
 	color: #E41822;
 }
 
-thead,  
+thead {
+	color: #ffffff;
+	text-decoration: none;
+	outline: 0;
+	background-color: #494a94;
+	background-image: -moz-linear-gradient(top, #494a94, #414285);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#494a94), to(#414285));
+	background-image: -webkit-linear-gradient(top, #494a94, #414285);
+	background-image: -o-linear-gradient(top, #494a94, #414285);
+	background-image: linear-gradient(to bottom, #494a94, #414285);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#494a94', endColorstr='#414285', GradientType=0); 
+}
+
 .dropdown-menu li > a:hover,
 .dropdown-menu li > a:focus,
 .dropdown-submenu:hover > a {
@@ -86,6 +99,7 @@ thead,
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#494a94', endColorstr='#414285', GradientType=0); 
 }
+
 li,	
 .dl .dt .ul .li {
 	text-align: left;
