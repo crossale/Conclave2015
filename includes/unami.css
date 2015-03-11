@@ -70,6 +70,16 @@ body {
 	color: #E41822;
 }
 
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+	color: #ffffff;
+	text-decoration: none;
+	outline: 0;
+	background-color: #E41822;
+	background-image: #E41822;
+}
+
 thead {
 	color: #ffffff;
 	text-decoration: none;
@@ -80,22 +90,6 @@ thead {
 	background-image: -webkit-linear-gradient(top, #494a94, #414285);
 	background-image: -o-linear-gradient(top, #494a94, #414285);
 	background-image: linear-gradient(to bottom, #494a94, #414285);
-	background-repeat: repeat-x;
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#494a94', endColorstr='#414285', GradientType=0); 
-}
-
-.dropdown-menu li > a:hover,
-.dropdown-menu li > a:focus,
-.dropdown-submenu:hover > a {
-	color: #ffffff;
-	text-decoration: none;
-	outline: 0;
-	background-color: #E41822;
-	background-image: -moz-linear-gradient(top, #E41822, #E41822);
-	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#E41822), to(#E41822));
-	background-image: -webkit-linear-gradient(top, #E41822, #E41822);
-	background-image: -o-linear-gradient(top, #E41822, #E41822);
-	background-image: linear-gradient(to bottom, #E41822, #E41822);
 	background-repeat: repeat-x;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#494a94', endColorstr='#414285', GradientType=0); 
 }
