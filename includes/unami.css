@@ -77,7 +77,7 @@ body {
 	text-decoration: none;
 	outline: 0;
 	background-color: #E41822;
-	background-image: #E41822;
+	background-image: none;
 }
 
 thead {
