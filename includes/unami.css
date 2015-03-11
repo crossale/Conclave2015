@@ -78,6 +78,13 @@ thead,
 	text-decoration: none;
 	outline: 0;
 	background-color: #E41822;
+	background-image: -moz-linear-gradient(top, #E41822, #E41822);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#E41822), to(#E41822));
+	background-image: -webkit-linear-gradient(top, #E41822, #E41822);
+	background-image: -o-linear-gradient(top, #E41822, #E41822);
+	background-image: linear-gradient(to bottom, #E41822, #E41822);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#494a94', endColorstr='#414285', GradientType=0); 
 }
 li,	
 .dl .dt .ul .li {
