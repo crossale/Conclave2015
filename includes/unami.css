@@ -77,7 +77,14 @@ thead,
 	color: #ffffff;
 	text-decoration: none;
 	outline: 0;
-	background-color: #E41822;
+	background-color: #494a94;
+	background-image: -moz-linear-gradient(top, #494a94, #494a94);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#494a94), to(#494a94));
+	background-image: -webkit-linear-gradient(top, #494a94, #494a94);
+	background-image: -o-linear-gradient(top, #494a94, #494a94);
+	background-image: linear-gradient(to bottom, #494a94, #494a94);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#494a94', endColorstr='#494a94', GradientType=0); 
 }
 li,	
 .dl .dt .ul .li {
