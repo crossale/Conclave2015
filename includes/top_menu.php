@@ -5,7 +5,7 @@
 		<!-- banner -->
 		<div class="row-fluid hidden-print">
 			<div class="span12">	
-				<img src="images/100thBanner.png" width="775" height="277" alt="Unami Banner"/>
+				<img src="images/100thBanner.png" width="775" height="277" alt="Unami Banner" class="banner-image"/>
 			</div>
 		</div>
 		<div class="row-fluid hidden-screen">
